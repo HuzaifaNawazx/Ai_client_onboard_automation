@@ -74,7 +74,13 @@ This project automates the entire onboarding process—from collecting client in
 
 ## 📸 Workflow Preview
 
-_Add your workflow screenshots here_
+## 📸 Workflow Preview
+
+### 🔹 Main Workflow
+![Main Workflow](client-onboarding-workflow.png)
+
+### 🔹 Step-by-Step Flow
+![Flow Steps](client-onboarding-flow-steps.png)
 
 ---
 
