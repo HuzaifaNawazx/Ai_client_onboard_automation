@@ -3,7 +3,6 @@
 An automated workflow designed to streamline client onboarding by capturing, processing, and routing data across multiple tools. This system reduces manual work, improves response time, and ensures efficient team collaboration.
 
 ---
-
 ## 📌 Overview
 
 This project automates the entire onboarding process—from collecting client information to creating tasks and notifying teams—using an integrated workflow built with Zapier.
