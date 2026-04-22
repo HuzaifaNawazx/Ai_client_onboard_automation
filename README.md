@@ -1,6 +1,7 @@
 # 🚀 Client Onboarding Automation System
 ## 🏆 Project Type
-Automation System | Client Onboarding | Workflow Engineering
+Automation System | Client Onboarding | Workflow Engineering.
+
 An automated workflow designed to streamline client onboarding by capturing, processing, and routing data across multiple tools. This system reduces manual work, improves response time, and ensures efficient team collaboration.
 
 ---
